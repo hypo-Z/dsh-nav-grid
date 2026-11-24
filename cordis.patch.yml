@@ -1,0 +1,4 @@
+# dsh-nav-grid：把左侧栏的导航项排成两列网格
+- insert:
+    - id: nav-grid
+      name: dsh-nav-grid
